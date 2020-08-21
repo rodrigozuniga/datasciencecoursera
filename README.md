@@ -9,5 +9,8 @@ the homework is about:
 the README.md file is an optional markdown file with:
 
   * General Project Description
+    + Overall Goal
+    + Main Parts of the project
+    + Team Members
   * Detailed description of each part of the project
   
